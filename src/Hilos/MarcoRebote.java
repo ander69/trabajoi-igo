@@ -20,6 +20,9 @@ public class MarcoRebote extends JFrame {
 	Thread t1,t2,t3;
 	JButton pelota1,pelota2,pelota3,detener1,detener2,detener3;
 	
+	
+	//creamos el marco donde meteremos los botones y la pelota
+	
 	public MarcoRebote(){
 		
 		setBounds(500,300,900,400);

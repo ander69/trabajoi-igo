@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import javax.swing.JPanel;
 
 public class Pelota {
+	//tamaño y posicion de la pelota
 	
 	public static final int TAMX=15;
 	
